@@ -1,3 +1,5 @@
+package basic_program;
+
 public class common_prefix {
     public String longest_common_prefix(String[] s) {
 

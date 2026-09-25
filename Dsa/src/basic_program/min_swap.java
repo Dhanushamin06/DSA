@@ -1,3 +1,5 @@
+package basic_program;
+
 public class min_swap {
     public static class Solution {
         public int minimumSwaps(int[] nums) {

@@ -1,3 +1,5 @@
+package basic_program;
+
 import java.util.*;
 
 class pascal_triangle {

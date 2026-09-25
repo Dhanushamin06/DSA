@@ -1,3 +1,5 @@
+package basic_program;
+
 import java.util.Scanner;
 
 public class merging_sortedArray {

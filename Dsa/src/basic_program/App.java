@@ -1,3 +1,5 @@
+package basic_program;
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

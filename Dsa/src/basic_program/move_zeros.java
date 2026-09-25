@@ -1,3 +1,5 @@
+package basic_program;
+
 import java.util.Arrays;
 
 class Move_zeros {

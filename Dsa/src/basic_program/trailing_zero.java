@@ -1,3 +1,5 @@
+package basic_program;
+
 import java.util.*;
 
 //logic of trailing zero is we have to divide the given number with power of 5 and get the quotient and after we combine the quotient we get total trailing zero
@@ -9,7 +11,6 @@ public class trailing_zero {
         }
         return count;
     }
-    
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
